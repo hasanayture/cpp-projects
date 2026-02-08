@@ -1,0 +1,6 @@
+add_subdirectory(atomics)
+add_subdirectory(locks)
+add_subdirectory(lock_free)
+add_subdirectory(memory_order)
+add_subdirectory(false_sharing)
+add_subdirectory(scheduling)

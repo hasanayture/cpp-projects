@@ -1,0 +1,5 @@
+add_subdirectory(unit)
+add_subdirectory(concurrency)
+add_subdirectory(memory)
+add_subdirectory(performance)
+add_subdirectory(regression)

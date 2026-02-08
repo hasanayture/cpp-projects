@@ -1,0 +1,23 @@
+# Build directories
+build/
+
+# C++ object files
+*.o
+*.obj
+
+# Executables / binaries
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,5 @@
+file(GLOB sources "*.cpp")
+foreach(src ${sources})
+    get_filename_component(target_name ${src} NAME_WE)
+    add_executable(${target_name} ${src})
+endforeach()
